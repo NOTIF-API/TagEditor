@@ -1,1 +1,1 @@
-{"version": "118", "update_next": "1.1.8 обновление главного окна!", "promocode": "TagEditor-Serder", "limit": 500}
+{"version": "119", "update_next": "1.1.9 испровление ишибок из за которых программа не обновлялась!", "promocode": "Notif-Love", "limit": 400}
